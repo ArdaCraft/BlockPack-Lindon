@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_s",
+    "textures": {
+        "edge": "acblocks:blocks/elven_cabinet_1",
+        "pane": "acblocks:blocks/elven_cabinet_1"
+    }
+}

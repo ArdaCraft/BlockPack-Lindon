@@ -1,0 +1,10 @@
+{
+  "name": "kitchen_appliance",
+  "base": "WOOD",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "kitchen_appliance_block_side"
+  }
+}

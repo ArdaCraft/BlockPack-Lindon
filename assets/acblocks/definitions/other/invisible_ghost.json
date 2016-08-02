@@ -1,0 +1,10 @@
+{
+  "name": "invisible_ghost",
+  "base": "STONE",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "invisible_ghost"
+  }
+}

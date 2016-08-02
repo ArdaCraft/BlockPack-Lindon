@@ -1,0 +1,10 @@
+{
+  "name": "arctostaphylos_alpina",
+  "base": "SPONGE",
+  "types": [
+    "CROPS"
+  ],
+  "textures": {
+    "normal": "arctostaphylos_alpina"
+  }
+}

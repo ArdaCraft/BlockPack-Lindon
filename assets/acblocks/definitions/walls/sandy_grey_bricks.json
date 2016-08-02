@@ -1,0 +1,16 @@
+{
+  "name": "sandy_grey_bricks",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLAB",
+    "STAIRS",
+    "WALL",
+    "FENCE",
+    "TRAP_DOOR",
+    "SLIM_SLAB"
+  ],
+  "textures": {
+    "normal": "sandy_grey_bricks"
+  }
+}

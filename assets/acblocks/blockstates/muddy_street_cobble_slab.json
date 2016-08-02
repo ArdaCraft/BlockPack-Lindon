@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:muddy_street_cobble_slab_half" },
+        "half=top,variant=false": { "model": "acblocks:muddy_street_cobble_slab_upper" }
+    }
+}

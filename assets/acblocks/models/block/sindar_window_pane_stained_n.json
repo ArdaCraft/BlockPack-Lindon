@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_n",
+    "textures": {
+        "edge": "acblocks:blocks/sindar_window",
+        "pane": "acblocks:blocks/sindar_window"
+    }
+}

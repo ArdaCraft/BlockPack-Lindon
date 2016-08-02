@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/downy_willow",
+        "top": "acblocks:blocks/downy_willow",
+        "side": "acblocks:blocks/downy_willow"
+    }
+}

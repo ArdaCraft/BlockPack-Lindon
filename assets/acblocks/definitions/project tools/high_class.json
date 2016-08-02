@@ -1,0 +1,10 @@
+{
+  "name": "high_class",
+  "base": "STONE",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "high_class"
+  }
+}

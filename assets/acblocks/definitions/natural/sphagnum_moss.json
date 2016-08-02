@@ -1,0 +1,11 @@
+{
+  "name": "sphagnum_moss",
+  "base": "SPONGE",
+  "types": [
+    "PLANT",
+    "CROPS"
+  ],
+  "textures": {
+    "normal": "sphagnum_moss"
+  }
+}

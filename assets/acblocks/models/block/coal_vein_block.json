@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/coal_vein",
+        "top": "acblocks:blocks/coal_vein",
+        "side": "acblocks:blocks/coal_vein"
+    }
+}

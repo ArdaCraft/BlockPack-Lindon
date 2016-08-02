@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:red_tudor_4_slab_half" },
+        "half=top,variant=false": { "model": "acblocks:red_tudor_4_slab_upper" }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/wall_post",
+    "textures": {
+        "wall": "acblocks:blocks/mossy_weathered_stone_brick"
+    }
+}

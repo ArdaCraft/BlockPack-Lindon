@@ -1,0 +1,16 @@
+{
+  "name": "clean_clay_roof",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLAB",
+    "STAIRS",
+    "WALL",
+    "FENCE",
+    "TRAP_DOOR",
+    "SLIM_SLAB"
+  ],
+  "textures": {
+    "normal": "clean_clay_roof"
+  }
+}

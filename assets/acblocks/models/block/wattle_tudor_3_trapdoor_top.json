@@ -1,0 +1,6 @@
+{
+    "parent": "block/trapdoor_top",
+    "textures": {
+        "texture": "acblocks:blocks/wattle_tudor_3"
+    }
+}

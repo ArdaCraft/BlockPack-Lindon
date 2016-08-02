@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_new",
+    "textures": {
+        "edge": "acblocks:blocks/pane_terracota_top",
+        "pane": "acblocks:blocks/pane_terracota"
+    }
+}

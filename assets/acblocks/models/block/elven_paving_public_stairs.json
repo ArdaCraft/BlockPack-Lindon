@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "acblocks:blocks/elven_paving_public",
+        "top": "acblocks:blocks/elven_paving_public",
+        "side": "acblocks:blocks/elven_paving_public"
+    }
+}

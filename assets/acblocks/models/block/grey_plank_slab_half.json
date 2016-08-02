@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "acblocks:blocks/grey_plank",
+        "top": "acblocks:blocks/grey_plank",
+        "side": "acblocks:blocks/grey_plank"
+    }
+}

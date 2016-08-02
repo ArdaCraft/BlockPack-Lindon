@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "acblocks:blocks/elven_white_plank",
+        "top": "acblocks:blocks/elven_white_plank",
+        "side": "acblocks:blocks/elven_white_plank"
+    }
+}

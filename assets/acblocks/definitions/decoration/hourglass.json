@@ -1,0 +1,10 @@
+{
+  "name": "hourglass",
+  "base": "WOOD",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "hourglass"
+  }
+}

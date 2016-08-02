@@ -1,0 +1,10 @@
+{
+  "name": "stave_fence",
+  "base": "WOOD",
+  "types": [
+    "PANE"
+  ],
+  "textures": {
+    "normal": "stave_fence"
+  }
+}

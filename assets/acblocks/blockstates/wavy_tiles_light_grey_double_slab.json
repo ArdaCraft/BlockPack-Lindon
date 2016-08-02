@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "half=bottom,variant=false": { "model": "acblocks:wavy_tiles_light_grey_double_slab" },
+    "half=bottom,variant=false": { "model": "acblocks:wavy_tiles_light_grey_double_slab" }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "birch",
+  "base": "GRASS",
+  "types": [
+    "DOUBLE_PLANT"
+  ],
+  "textures": {
+    "normal": "double_plant_birch_bottom",
+    "top": "double_plant_birch_top",
+    "bottom": "double_plant_birch_bottom"
+  }
+}

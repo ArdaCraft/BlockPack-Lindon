@@ -1,0 +1,11 @@
+{
+  "name": "dark_beam_log",
+  "base": "WOOD",
+  "types": [
+    "LOG",
+    "TRUNK"
+  ],
+  "textures": {
+    "normal": "dark_beam_log_side"
+  }
+}

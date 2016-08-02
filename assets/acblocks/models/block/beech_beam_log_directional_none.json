@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "acblocks:blocks/beech_beam_log_side"
+    }
+}

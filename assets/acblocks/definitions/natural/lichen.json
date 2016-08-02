@@ -1,0 +1,11 @@
+{
+  "name": "lichen",
+  "base": "SPONGE",
+  "types": [
+    "PLANT",
+    "CROPS"
+  ],
+  "textures": {
+    "normal": "lichen"
+  }
+}

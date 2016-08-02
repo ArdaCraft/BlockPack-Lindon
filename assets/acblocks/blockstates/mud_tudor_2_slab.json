@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:mud_tudor_2_slab_half" },
+        "half=top,variant=false": { "model": "acblocks:mud_tudor_2_slab_upper" }
+    }
+}

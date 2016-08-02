@@ -1,0 +1,6 @@
+{
+    "parent": "block/wall_post",
+    "textures": {
+        "wall": "acblocks:blocks/sea_shell_elf_wall"
+    }
+}

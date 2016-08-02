@@ -1,0 +1,6 @@
+{
+    "parent": "block/trapdoor_top",
+    "textures": {
+        "texture": "acblocks:blocks/sea_shell_elf_wall"
+    }
+}

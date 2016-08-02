@@ -1,0 +1,10 @@
+{
+  "name": "telescope",
+  "base": "STONE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "telescope"
+  }
+}

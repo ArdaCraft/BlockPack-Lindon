@@ -1,0 +1,11 @@
+{
+  "name": "rusted_iron_pillar",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "TRUNK"
+  ],
+  "textures": {
+    "normal": "rusted_iron_pillar"
+  }
+}

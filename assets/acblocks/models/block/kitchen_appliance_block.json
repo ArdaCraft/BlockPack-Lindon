@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/kitchen_appliance_block_top",
+        "top": "acblocks:blocks/kitchen_appliance_block_top",
+        "side": "acblocks:blocks/kitchen_appliance_block_side"
+    }
+}

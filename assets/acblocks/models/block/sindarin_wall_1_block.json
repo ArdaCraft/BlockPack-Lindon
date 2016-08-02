@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/sindarin_wall_1",
+        "top": "acblocks:blocks/sindarin_wall_1",
+        "side": "acblocks:blocks/sindarin_wall_1"
+    }
+}

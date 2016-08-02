@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "acblocks:blocks/barrel_log_top",
+        "side": "acblocks:blocks/barrel_log_side"
+    }
+}

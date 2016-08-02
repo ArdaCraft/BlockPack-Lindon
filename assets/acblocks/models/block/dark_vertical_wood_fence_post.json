@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_post",
+    "textures": {
+        "texture": "acblocks:blocks/dark_vertical_wood"
+    }
+}

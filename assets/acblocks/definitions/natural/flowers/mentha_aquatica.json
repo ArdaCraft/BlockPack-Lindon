@@ -1,0 +1,10 @@
+{
+  "name": "mentha_aquatica",
+  "base": "SPONGE",
+  "types": [
+    "PLANT"
+  ],
+  "textures": {
+    "normal": "mentha_aquatica"
+  }
+}

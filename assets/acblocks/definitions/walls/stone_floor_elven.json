@@ -1,0 +1,11 @@
+{
+  "name": "stone_floor_elven",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "stone_floor_elven"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "symbelmyne_gold",
+  "base": "SPONGE",
+  "types": [
+    "PLANT",
+    "CROPS"
+  ],
+  "textures": {
+    "normal": "symbelmyne_gold"
+  }
+}

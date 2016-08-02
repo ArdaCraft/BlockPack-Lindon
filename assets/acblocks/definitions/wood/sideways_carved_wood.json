@@ -1,0 +1,11 @@
+{
+  "name": "sideways_carved_wood",
+  "base": "WOOD",
+  "types": [
+    "BLOCK",
+    "WALL"
+  ],
+  "textures": {
+    "normal": "sideways_carved_wood"
+  }
+}

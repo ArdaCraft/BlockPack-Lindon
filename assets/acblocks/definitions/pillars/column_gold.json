@@ -1,0 +1,11 @@
+{
+  "name": "column_gold",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "TRUNK"
+  ],
+  "textures": {
+    "normal": "column_gold"
+  }
+}

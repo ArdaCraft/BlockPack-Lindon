@@ -1,0 +1,12 @@
+{
+  "name": "sindarin_wall_pattern_3",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "WALL",
+    "TRAP_DOOR"
+  ],
+  "textures": {
+    "normal": "sindarin_wall_pattern_3"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "coal_vein",
+  "base": "STONE",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "coal_vein"
+  }
+}

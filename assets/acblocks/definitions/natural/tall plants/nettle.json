@@ -1,0 +1,12 @@
+{
+  "name": "nettle",
+  "base": "GRASS",
+  "types": [
+    "DOUBLE_PLANT"
+  ],
+  "textures": {
+    "normal": "double_plant_nettle_bottom",
+    "top": "double_plant_nettle_top",
+    "bottom": "double_plant_nettle_bottom"
+  }
+}

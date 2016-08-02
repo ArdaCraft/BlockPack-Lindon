@@ -1,0 +1,11 @@
+{
+  "name": "vertical_gold_carved_wood",
+  "base": "WOOD",
+  "types": [
+    "BLOCK",
+    "TRUNK"
+  ],
+  "textures": {
+    "normal": "vertical_gold_carved_wood"
+  }
+}

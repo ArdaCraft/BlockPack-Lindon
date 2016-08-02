@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_n",
+    "textures": {
+        "texture": "acblocks:blocks/sea_shell_elf_wall"
+    }
+}

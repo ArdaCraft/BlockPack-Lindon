@@ -1,0 +1,10 @@
+{
+  "name": "white_shutterpane_glass",
+  "base": "WOOD",
+  "types": [
+    "PANE"
+  ],
+  "textures": {
+    "normal": "white_shutterpane_glass"
+  }
+}

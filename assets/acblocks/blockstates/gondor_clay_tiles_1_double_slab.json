@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "half=bottom,variant=false": { "model": "acblocks:gondor_clay_tiles_1_double_slab" },
+    "half=bottom,variant=false": { "model": "acblocks:gondor_clay_tiles_1_double_slab" }
+  }
+}

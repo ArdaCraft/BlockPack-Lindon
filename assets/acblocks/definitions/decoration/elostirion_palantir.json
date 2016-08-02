@@ -1,0 +1,10 @@
+{
+  "name": "elostirion_palantir",
+  "base": "STONE",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "elostirion_palantir"
+  }
+}

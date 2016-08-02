@@ -1,0 +1,13 @@
+{
+  "name": "elven_paving_public",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLAB",
+    "STAIRS",
+    "SLIM_SLAB"
+  ],
+  "textures": {
+    "normal": "elven_paving_public"
+  }
+}

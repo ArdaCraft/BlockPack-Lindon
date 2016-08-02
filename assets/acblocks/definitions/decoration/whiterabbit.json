@@ -1,0 +1,10 @@
+{
+  "name": "whiterabbit",
+  "base": "SPONGE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "whiterabbit"
+  }
+}

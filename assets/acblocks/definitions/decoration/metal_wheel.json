@@ -1,0 +1,10 @@
+{
+  "name": "metal_wheel",
+  "base": "STONE",
+  "types": [
+    "PANE"
+  ],
+  "textures": {
+    "normal": "metal_wheel"
+  }
+}

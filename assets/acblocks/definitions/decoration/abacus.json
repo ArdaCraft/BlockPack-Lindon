@@ -1,0 +1,10 @@
+{
+  "name": "abacus",
+  "base": "WOOD",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "abacus"
+  }
+}

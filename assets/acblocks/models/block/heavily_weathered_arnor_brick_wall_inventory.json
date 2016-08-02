@@ -1,0 +1,6 @@
+{
+    "parent": "block/wall_inventory",
+    "textures": {
+        "wall": "acblocks:blocks/heavily_weathered_arnor_brick"
+    }
+}

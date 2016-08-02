@@ -1,0 +1,10 @@
+{
+  "name": "green_screen_nolight",
+  "base": "STONE",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "green_screen_nolight"
+  }
+}

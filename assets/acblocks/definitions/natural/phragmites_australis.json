@@ -1,0 +1,11 @@
+{
+  "name": "phragmites_australis",
+  "base": "SPONGE",
+  "types": [
+    "WEB",
+    "CROPS"
+  ],
+  "textures": {
+    "normal": "phragmites_australis"
+  }
+}

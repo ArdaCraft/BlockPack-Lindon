@@ -1,0 +1,12 @@
+{
+  "name": "oak",
+  "base": "GRASS",
+  "types": [
+    "DOUBLE_PLANT"
+  ],
+  "textures": {
+    "normal": "double_plant_oak_bottom",
+    "top": "double_plant_oak_top",
+    "bottom": "double_plant_oak_bottom"
+  }
+}

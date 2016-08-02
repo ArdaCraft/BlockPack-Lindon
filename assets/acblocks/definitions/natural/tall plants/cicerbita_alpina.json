@@ -1,0 +1,12 @@
+{
+  "name": "cicerbita_alpina",
+  "base": "GRASS",
+  "types": [
+    "DOUBLE_PLANT"
+  ],
+  "textures": {
+    "normal": "double_plant_cicerbita_alpina_bottom",
+    "top": "double_plant_cicerbita_alpina_top",
+    "bottom": "double_plant_cicerbita_alpina_bottom"
+  }
+}

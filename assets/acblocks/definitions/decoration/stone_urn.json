@@ -1,0 +1,10 @@
+{
+  "name": "stone_urn",
+  "base": "STONE",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "stone_urn_side"
+  }
+}

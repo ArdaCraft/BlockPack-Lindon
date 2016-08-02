@@ -1,0 +1,16 @@
+{
+  "name": "dark_vertical_wood",
+  "base": "WOOD",
+  "types": [
+    "BLOCK",
+    "SLAB",
+    "STAIRS",
+    "WALL",
+    "FENCE",
+    "TRAP_DOOR",
+    "SLIM_SLAB"
+  ],
+  "textures": {
+    "normal": "dark_vertical_wood"
+  }
+}

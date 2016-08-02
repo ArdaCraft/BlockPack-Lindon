@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/blue_tudor_6",
+        "top": "acblocks:blocks/blue_tudor_6",
+        "side": "acblocks:blocks/blue_tudor_6"
+    }
+}

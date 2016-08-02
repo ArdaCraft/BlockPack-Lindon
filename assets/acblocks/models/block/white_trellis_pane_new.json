@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_new",
+    "textures": {
+        "edge": "acblocks:blocks/white_trellis_top",
+        "pane": "acblocks:blocks/white_trellis"
+    }
+}

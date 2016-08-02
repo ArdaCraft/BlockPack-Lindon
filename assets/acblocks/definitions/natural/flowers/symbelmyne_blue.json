@@ -1,0 +1,11 @@
+{
+  "name": "symbelmyne_blue",
+  "base": "SPONGE",
+  "types": [
+    "PLANT",
+    "CROPS"
+  ],
+  "textures": {
+    "normal": "symbelmyne_blue"
+  }
+}

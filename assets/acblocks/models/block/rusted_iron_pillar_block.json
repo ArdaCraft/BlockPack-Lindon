@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/rusted_iron_pillar",
+        "top": "acblocks:blocks/rusted_iron_pillar",
+        "side": "acblocks:blocks/rusted_iron_pillar"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_nsew",
+    "textures": {
+        "texture": "acblocks:blocks/gondor_clay_tiles_1"
+    }
+}

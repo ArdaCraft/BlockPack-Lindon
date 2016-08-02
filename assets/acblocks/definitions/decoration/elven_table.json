@@ -1,0 +1,10 @@
+{
+  "name": "elven_table",
+  "base": "WOOD",
+  "types": [
+    "CAULDRON"
+  ],
+  "textures": {
+    "normal": "elven_table_side"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "fir",
+  "base": "GRASS",
+  "types": [
+    "DOUBLE_PLANT"
+  ],
+  "textures": {
+    "normal": "double_plant_fir_bottom",
+    "top": "double_plant_fir_top",
+    "bottom": "double_plant_fir_bottom"
+  }
+}

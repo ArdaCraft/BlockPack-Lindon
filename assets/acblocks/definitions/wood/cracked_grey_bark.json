@@ -1,0 +1,13 @@
+{
+  "name": "cracked_grey_bark",
+  "base": "WOOD",
+  "types": [
+    "BLOCK",
+    "TRUNK",
+    "FENCE",
+    "TRAP_DOOR"
+  ],
+  "textures": {
+    "normal": "cracked_grey_bark"
+  }
+}

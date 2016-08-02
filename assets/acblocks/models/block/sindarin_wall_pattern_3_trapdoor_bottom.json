@@ -1,0 +1,6 @@
+{
+    "parent": "block/trapdoor_bottom",
+    "textures": {
+        "texture": "acblocks:blocks/sindarin_wall_pattern_3"
+    }
+}

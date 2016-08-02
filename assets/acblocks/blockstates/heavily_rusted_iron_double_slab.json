@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "half=bottom,variant=false": { "model": "acblocks:heavily_rusted_iron_double_slab" },
+    "half=bottom,variant=false": { "model": "acblocks:heavily_rusted_iron_double_slab" }
+  }
+}

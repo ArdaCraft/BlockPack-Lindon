@@ -1,0 +1,16 @@
+{
+  "name": "heavily_rusted_iron",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLAB",
+    "STAIRS",
+    "WALL",
+    "FENCE",
+    "TRAP_DOOR",
+    "SLIM_SLAB"
+  ],
+  "textures": {
+    "normal": "heavily_rusted_iron"
+  }
+}

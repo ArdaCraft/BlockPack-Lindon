@@ -1,0 +1,10 @@
+{
+  "name": "name",
+  "base": "STONE",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "name"
+  }
+}

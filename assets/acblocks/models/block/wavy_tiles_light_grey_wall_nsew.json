@@ -1,0 +1,6 @@
+{
+    "parent": "block/wall_nsew",
+    "textures": {
+        "wall": "acblocks:blocks/wavy_tiles_light_grey"
+    }
+}

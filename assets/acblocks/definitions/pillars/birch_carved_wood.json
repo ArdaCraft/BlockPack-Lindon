@@ -1,0 +1,11 @@
+{
+  "name": "birch_carved_wood",
+  "base": "WOOD",
+  "types": [
+    "BLOCK",
+    "TRUNK"
+  ],
+  "textures": {
+    "normal": "birch_carved_wood"
+  }
+}

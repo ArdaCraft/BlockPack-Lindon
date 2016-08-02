@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "normal": { "model": "acblocks:comment_block" }
+  }
+}

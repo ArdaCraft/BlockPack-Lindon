@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/sign",
+        "top": "acblocks:blocks/sign",
+        "side": "acblocks:blocks/sign"
+    }
+}

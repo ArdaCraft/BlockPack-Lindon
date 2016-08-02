@@ -1,0 +1,11 @@
+{
+  "name": "crate_grey",
+  "base": "WOOD",
+  "types": [
+    "BLOCK",
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "crate_grey"
+  }
+}

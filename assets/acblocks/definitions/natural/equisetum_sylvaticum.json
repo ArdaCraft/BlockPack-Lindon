@@ -1,0 +1,11 @@
+{
+  "name": "equisetum_sylvaticum",
+  "base": "SPONGE",
+  "types": [
+    "PLANT",
+    "CROPS"
+  ],
+  "textures": {
+    "normal": "equisetum_sylvaticum"
+  }
+}

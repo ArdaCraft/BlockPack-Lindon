@@ -1,0 +1,10 @@
+{
+  "name": "stick_sapling",
+  "base": "SPONGE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "stick_sapling"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "calcerous_grass",
+  "base": "SPONGE",
+  "types": [
+    "CROPS"
+  ],
+  "textures": {
+    "normal": "calcerous_grass"
+  }
+}

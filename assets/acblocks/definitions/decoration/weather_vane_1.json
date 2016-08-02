@@ -1,0 +1,10 @@
+{
+  "name": "weather_vane_1",
+  "base": "STONE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "weather_vane_1"
+  }
+}

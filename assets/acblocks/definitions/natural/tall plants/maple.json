@@ -1,0 +1,12 @@
+{
+  "name": "maple",
+  "base": "GRASS",
+  "types": [
+    "DOUBLE_PLANT"
+  ],
+  "textures": {
+    "normal": "double_plant_maple_bottom",
+    "top": "double_plant_maple_top",
+    "bottom": "double_plant_maple_bottom"
+  }
+}

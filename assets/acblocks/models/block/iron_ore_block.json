@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/iron_ore",
+        "top": "acblocks:blocks/iron_ore",
+        "side": "acblocks:blocks/iron_ore"
+    }
+}

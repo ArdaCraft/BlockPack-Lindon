@@ -1,0 +1,11 @@
+{
+  "name": "white_ivory_pillar",
+  "base": "WOOD",
+  "types": [
+    "BLOCK",
+    "TRUNK"
+  ],
+  "textures": {
+    "normal": "white_ivory_pillar"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "smooth_pine_wood_planks",
+  "base": "WOOD",
+  "types": [
+    "BLOCK",
+    "SLAB",
+    "STAIRS",
+    "WALL",
+    "FENCE",
+    "TRAP_DOOR",
+    "SLIM_SLAB"
+  ],
+  "textures": {
+    "normal": "smooth_pine_wood_planks"
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "age=0": { "model": "acblocks:symbelmyne_blue_crops" },
+        "age=1": { "model": "acblocks:symbelmyne_blue_crops" },
+        "age=2": { "model": "acblocks:symbelmyne_blue_crops" },
+        "age=3": { "model": "acblocks:symbelmyne_blue_crops" },
+        "age=4": { "model": "acblocks:symbelmyne_blue_crops" },
+        "age=5": { "model": "acblocks:symbelmyne_blue_crops" },
+        "age=6": { "model": "acblocks:symbelmyne_blue_crops" },
+        "age=7": { "model": "acblocks:symbelmyne_blue_crops" }
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "wavy_tiles_gold",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLAB",
+    "STAIRS",
+    "WALL",
+    "FENCE",
+    "TRAP_DOOR"
+  ],
+  "textures": {
+    "normal": "wavy_tiles_gold"
+  }
+}

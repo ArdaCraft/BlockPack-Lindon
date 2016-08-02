@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "acblocks:blocks/barrel_log_side"
+    }
+}

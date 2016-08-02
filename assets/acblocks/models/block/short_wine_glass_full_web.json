@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "acblocks:blocks/short_wine_glass_full"
+    }
+}

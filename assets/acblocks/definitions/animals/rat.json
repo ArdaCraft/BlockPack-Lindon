@@ -1,0 +1,10 @@
+{
+  "name": "rat",
+  "base": "SPONGE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "rat"
+  }
+}

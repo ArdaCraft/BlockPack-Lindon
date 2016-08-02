@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "half=bottom,variant=false": { "model": "acblocks:wattle_tudor_4_double_slab" },
+    "half=bottom,variant=false": { "model": "acblocks:wattle_tudor_4_double_slab" }
+  }
+}

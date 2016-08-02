@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "acblocks:blocks/stone_floor_elven",
+        "top": "acblocks:blocks/stone_floor_elven",
+        "side": "acblocks:blocks/stone_floor_elven"
+    }
+}

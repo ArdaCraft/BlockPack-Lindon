@@ -1,0 +1,16 @@
+{
+  "name": "gondor_clay_tiles_1",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLAB",
+    "STAIRS",
+    "WALL",
+    "FENCE",
+    "TRAP_DOOR",
+    "SLIM_SLAB"
+  ],
+  "textures": {
+    "normal": "gondor_clay_tiles_1"
+  }
+}

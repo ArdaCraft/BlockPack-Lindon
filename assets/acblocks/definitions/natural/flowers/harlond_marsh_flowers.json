@@ -1,0 +1,10 @@
+{
+  "name": "harlond_marsh_flowers",
+  "base": "SPONGE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "harlond_marsh_flowers"
+  }
+}

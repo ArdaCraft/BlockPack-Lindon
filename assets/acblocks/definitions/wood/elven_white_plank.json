@@ -1,0 +1,16 @@
+{
+  "name": "elven_white_plank",
+  "base": "WOOD",
+  "types": [
+    "BLOCK",
+    "SLAB",
+    "STAIRS",
+    "WALL",
+    "FENCE",
+    "TRAP_DOOR",
+    "SLIM_SLAB"
+  ],
+  "textures": {
+    "normal": "elven_white_plank"
+  }
+}

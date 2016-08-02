@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "acblocks:measuring_device_web" }
+    }
+}

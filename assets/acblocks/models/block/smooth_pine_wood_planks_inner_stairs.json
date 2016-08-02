@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "acblocks:blocks/smooth_pine_wood_planks",
+        "top": "acblocks:blocks/smooth_pine_wood_planks",
+        "side": "acblocks:blocks/smooth_pine_wood_planks"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/muddy_street_cobble",
+        "top": "acblocks:blocks/muddy_street_cobble",
+        "side": "acblocks:blocks/muddy_street_cobble"
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "elm",
+  "base": "GRASS",
+  "types": [
+    "DOUBLE_PLANT"
+  ],
+  "textures": {
+    "normal": "double_plant_elm_bottom",
+    "top": "double_plant_elm_top",
+    "bottom": "double_plant_elm_bottom"
+  }
+}

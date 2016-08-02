@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/waiting_approval",
+        "top": "acblocks:blocks/waiting_approval",
+        "side": "acblocks:blocks/waiting_approval"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/elostirion_palantir",
+        "top": "acblocks:blocks/elostirion_palantir",
+        "side": "acblocks:blocks/elostirion_palantir"
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "beech_beam",
+  "base": "WOOD",
+  "types": [
+    "LOG"
+  ],
+  "textures": {
+    "normal": "beech_beam_log_side"
+  }
+}

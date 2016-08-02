@@ -1,0 +1,10 @@
+{
+  "name": "astrolabe_elven",
+  "base": "WOOD",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "astrolabe_elven"
+  }
+}

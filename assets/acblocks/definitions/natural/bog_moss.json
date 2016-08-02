@@ -1,0 +1,11 @@
+{
+  "name": "bog_moss",
+  "base": "SPONGE",
+  "types": [
+    "PLANT",
+    "CROPS"
+  ],
+  "textures": {
+    "normal": "bog_moss"
+  }
+}

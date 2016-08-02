@@ -1,0 +1,12 @@
+{
+  "name": "muddy_street_cobble",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLAB",
+    "SLIM_SLAB"
+  ],
+  "textures": {
+    "normal": "muddy_street_cobble"
+  }
+}

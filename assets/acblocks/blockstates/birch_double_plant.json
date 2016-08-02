@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=lower": { "model": "acblocks:birch_double_plant_bottom" },
+        "half=upper": { "model": "acblocks:birch_double_plant_top" }
+    }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "clean_cut_elven_pillar",
+  "base": "STONE",
+  "types": [
+    "LOG",
+    "TRUNK"
+  ],
+  "textures": {
+    "normal": "clean_cut_elven_pillar"
+  }
+}

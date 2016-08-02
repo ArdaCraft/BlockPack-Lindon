@@ -1,0 +1,11 @@
+{
+  "name": "whitewash",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "whitewash"
+  }
+}

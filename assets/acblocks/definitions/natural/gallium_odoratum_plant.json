@@ -1,0 +1,10 @@
+{
+  "name": "gallium_odoratum_plant",
+  "base": "SPONGE",
+  "types": [
+    "CROPS"
+  ],
+  "textures": {
+    "normal": "gallium_odoratum_plant"
+  }
+}

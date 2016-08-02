@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "half=bottom,variant=false": { "model": "acblocks:sandy_grey_bricks_double_slab" },
+    "half=bottom,variant=false": { "model": "acblocks:sandy_grey_bricks_double_slab" }
+  }
+}

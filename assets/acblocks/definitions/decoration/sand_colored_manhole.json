@@ -1,0 +1,10 @@
+{
+  "name": "sand_colored_manhole",
+  "base": "STONE",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "sand_colored_manhole"
+  }
+}

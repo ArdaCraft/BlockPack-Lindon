@@ -1,0 +1,10 @@
+{
+  "name": "harlond_flower_1",
+  "base": "SPONGE",
+  "types": [
+    "PLANT"
+  ],
+  "textures": {
+    "normal": "harlond_flower_1"
+  }
+}

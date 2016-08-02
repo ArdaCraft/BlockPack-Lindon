@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/invisible_ghost",
+        "top": "acblocks:blocks/invisible_ghost",
+        "side": "acblocks:blocks/invisible_ghost"
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "wet_tudor_5",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLAB",
+    "TRAP_DOOR"
+  ],
+  "textures": {
+    "normal": "wet_tudor_5"
+  }
+}

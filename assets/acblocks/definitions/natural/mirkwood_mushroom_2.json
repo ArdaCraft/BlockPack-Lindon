@@ -1,0 +1,10 @@
+{
+  "name": "mirkwood_mushroom_2",
+  "base": "SPONGE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "mirkwood_mushroom_2"
+  }
+}

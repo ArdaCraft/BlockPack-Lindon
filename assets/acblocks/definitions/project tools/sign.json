@@ -1,0 +1,10 @@
+{
+  "name": "sign",
+  "base": "STONE",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "sign"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "mossy_weathered_stone_brick",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLAB",
+    "STAIRS",
+    "WALL",
+    "FENCE",
+    "TRAP_DOOR",
+    "SLIM_SLAB"
+  ],
+  "textures": {
+    "normal": "mossy_weathered_stone_brick"
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_post",
+    "textures": {
+        "texture": "acblocks:blocks/fused_orthanc_rock"
+    }
+}

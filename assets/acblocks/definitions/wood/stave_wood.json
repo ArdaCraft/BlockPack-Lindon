@@ -1,0 +1,16 @@
+{
+  "name": "stave_wood",
+  "base": "WOOD",
+  "types": [
+    "BLOCK",
+    "SLAB",
+    "STAIRS",
+    "WALL",
+    "FENCE",
+    "TRAP_DOOR",
+    "SLIM_SLAB"
+  ],
+  "textures": {
+    "normal": "stave_wood"
+  }
+}

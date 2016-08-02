@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "half=bottom,variant=false": { "model": "acblocks:smooth_pine_wood_planks_double_slab" },
+    "half=bottom,variant=false": { "model": "acblocks:smooth_pine_wood_planks_double_slab" }
+  }
+}

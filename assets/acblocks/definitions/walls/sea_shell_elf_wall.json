@@ -1,0 +1,13 @@
+{
+  "name": "sea_shell_elf_wall",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "WALL",
+    "FENCE",
+    "TRAP_DOOR"
+  ],
+  "textures": {
+    "normal": "sea_shell_elf_wall"
+  }
+}

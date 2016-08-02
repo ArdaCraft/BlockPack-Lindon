@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "normal": { "model": "acblocks:iron_ore_block" }
+  }
+}

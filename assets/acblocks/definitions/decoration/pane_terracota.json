@@ -1,0 +1,10 @@
+{
+  "name": "pane_terracota",
+  "base": "WOOD",
+  "types": [
+    "PANE"
+  ],
+  "textures": {
+    "normal": "pane_terracota"
+  }
+}

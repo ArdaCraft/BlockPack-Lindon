@@ -1,0 +1,16 @@
+{
+  "name": "dale_roof_mossy",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLAB",
+    "STAIRS",
+    "WALL",
+    "FENCE",
+    "TRAP_DOOR",
+    "SLIM_SLAB"
+  ],
+  "textures": {
+    "normal": "dale_roof_mossy"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "grey_plank",
+  "base": "WOOD",
+  "types": [
+    "BLOCK",
+    "SLAB",
+    "STAIRS",
+    "WALL",
+    "FENCE",
+    "TRAP_DOOR",
+    "SLIM_SLAB"
+  ],
+  "textures": {
+    "normal": "grey_plank"
+  }
+}

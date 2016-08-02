@@ -1,0 +1,12 @@
+{
+  "name": "mud_tudor_6",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLAB",
+    "TRAP_DOOR"
+  ],
+  "textures": {
+    "normal": "mud_tudor_6"
+  }
+}

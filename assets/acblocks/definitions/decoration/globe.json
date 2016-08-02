@@ -1,0 +1,10 @@
+{
+  "name": "globe",
+  "base": "WOOD",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "globe"
+  }
+}

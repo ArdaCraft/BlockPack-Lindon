@@ -1,0 +1,10 @@
+{
+  "name": "white_trellis",
+  "base": "STONE",
+  "types": [
+    "PANE"
+  ],
+  "textures": {
+    "normal": "white_trellis"
+  }
+}

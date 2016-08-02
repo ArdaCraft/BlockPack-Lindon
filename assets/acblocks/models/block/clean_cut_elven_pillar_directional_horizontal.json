@@ -1,0 +1,7 @@
+{
+    "parent": "block/column_side",
+    "textures": {
+        "end": "acblocks:blocks/clean_cut_elven_pillar",
+        "side": "acblocks:blocks/clean_cut_elven_pillar"
+    }
+}

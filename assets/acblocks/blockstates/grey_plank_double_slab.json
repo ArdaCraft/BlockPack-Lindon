@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "half=bottom,variant=false": { "model": "acblocks:grey_plank_double_slab" },
+    "half=bottom,variant=false": { "model": "acblocks:grey_plank_double_slab" }
+  }
+}

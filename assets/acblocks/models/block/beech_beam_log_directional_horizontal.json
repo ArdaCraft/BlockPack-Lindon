@@ -1,0 +1,7 @@
+{
+    "parent": "block/column_side",
+    "textures": {
+        "end": "acblocks:blocks/beech_beam_log_top",
+        "side": "acblocks:blocks/beech_beam_log_side"
+    }
+}

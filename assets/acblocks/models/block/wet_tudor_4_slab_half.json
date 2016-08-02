@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "acblocks:blocks/wet_tudor_4",
+        "top": "acblocks:blocks/wet_tudor_4",
+        "side": "acblocks:blocks/wet_tudor_4"
+    }
+}

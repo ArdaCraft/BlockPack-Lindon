@@ -1,0 +1,6 @@
+{
+    "parent": "block/wall_post",
+    "textures": {
+        "wall": "acblocks:blocks/gondor_clay_tiles_1"
+    }
+}

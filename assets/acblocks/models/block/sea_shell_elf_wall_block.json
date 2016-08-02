@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/sea_shell_elf_wall",
+        "top": "acblocks:blocks/sea_shell_elf_wall",
+        "side": "acblocks:blocks/sea_shell_elf_wall"
+    }
+}

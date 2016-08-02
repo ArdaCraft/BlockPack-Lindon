@@ -1,0 +1,6 @@
+{
+    "parent": "block/trapdoor_top",
+    "textures": {
+        "texture": "acblocks:blocks/oak_shutterpane_glass"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_inventory",
+    "textures": {
+        "texture": "acblocks:blocks/clean_clay_roof"
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "comment",
+  "base": "STONE",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "comment"
+  }
+}

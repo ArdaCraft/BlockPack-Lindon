@@ -1,0 +1,10 @@
+{
+  "name": "elven_door_1",
+  "base": "WOOD",
+  "types": [
+    "DOOR"
+  ],
+  "textures": {
+    "normal": "elven_door_1_top"
+  }
+}

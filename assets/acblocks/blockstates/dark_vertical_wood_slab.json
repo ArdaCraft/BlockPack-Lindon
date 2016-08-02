@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:dark_vertical_wood_slab_half" },
+        "half=top,variant=false": { "model": "acblocks:dark_vertical_wood_slab_upper" }
+    }
+}

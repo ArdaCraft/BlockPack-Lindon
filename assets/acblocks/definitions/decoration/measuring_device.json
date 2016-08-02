@@ -1,0 +1,10 @@
+{
+  "name": "measuring_device",
+  "base": "WOOD",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "measuring_device"
+  }
+}

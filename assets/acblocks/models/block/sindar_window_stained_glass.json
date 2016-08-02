@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/sindar_window",
+        "top": "acblocks:blocks/sindar_window",
+        "side": "acblocks:blocks/sindar_window"
+    }
+}

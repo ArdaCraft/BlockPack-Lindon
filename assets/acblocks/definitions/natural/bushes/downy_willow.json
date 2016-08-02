@@ -1,0 +1,10 @@
+{
+  "name": "downy_willow",
+  "base": "SPONGE",
+  "types": [
+    "LEAVES"
+  ],
+  "textures": {
+    "normal": "downy_willow"
+  }
+}

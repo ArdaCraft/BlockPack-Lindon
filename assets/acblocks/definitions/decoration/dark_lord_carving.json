@@ -1,0 +1,10 @@
+{
+  "name": "dark_lord_carving",
+  "base": "STONE",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "dark_lord_carving"
+  }
+}

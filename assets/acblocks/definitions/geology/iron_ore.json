@@ -1,0 +1,10 @@
+{
+  "name": "iron_ore",
+  "base": "STONE",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "iron_ore"
+  }
+}

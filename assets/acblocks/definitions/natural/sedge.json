@@ -1,0 +1,10 @@
+{
+  "name": "sedge",
+  "base": "SPONGE",
+  "types": [
+    "PLANT"
+  ],
+  "textures": {
+    "normal": "sedge"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "sindarin_beam_1",
+  "base": "WOOD",
+  "types": [
+    "BLOCK",
+    "TRUNK",
+    "TRAP_DOOR"
+  ],
+  "textures": {
+    "normal": "sindarin_beam_1"
+  }
+}

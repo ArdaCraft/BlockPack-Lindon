@@ -1,0 +1,13 @@
+{
+  "name": "dale_tile",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLAB",
+    "STAIRS",
+    "SLIM_SLAB"
+  ],
+  "textures": {
+    "normal": "dale_tile"
+  }
+}

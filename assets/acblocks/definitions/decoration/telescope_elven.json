@@ -1,0 +1,10 @@
+{
+  "name": "telescope_elven",
+  "base": "STONE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "telescope_elven"
+  }
+}

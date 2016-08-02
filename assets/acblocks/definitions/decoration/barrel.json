@@ -1,0 +1,10 @@
+{
+  "name": "barrel",
+  "base": "WOOD",
+  "types": [
+    "LOG"
+  ],
+  "textures": {
+    "normal": "barrel_log_side"
+  }
+}

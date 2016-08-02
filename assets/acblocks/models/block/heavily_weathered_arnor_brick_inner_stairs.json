@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "acblocks:blocks/heavily_weathered_arnor_brick",
+        "top": "acblocks:blocks/heavily_weathered_arnor_brick",
+        "side": "acblocks:blocks/heavily_weathered_arnor_brick"
+    }
+}

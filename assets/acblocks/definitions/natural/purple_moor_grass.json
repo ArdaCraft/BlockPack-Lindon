@@ -1,0 +1,10 @@
+{
+  "name": "purple_moor_grass",
+  "base": "SPONGE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "purple_moor_grass"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "short_wine_glass_empty",
+  "base": "GLASS",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "short_wine_glass_empty"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "oak_shutterpane_glass",
+  "base": "WOOD",
+  "types": [
+    "PANE",
+    "TRAP_DOOR"
+  ],
+  "textures": {
+    "normal": "oak_shutterpane_glass"
+  }
+}

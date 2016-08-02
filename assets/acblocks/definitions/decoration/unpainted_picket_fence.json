@@ -1,0 +1,10 @@
+{
+  "name": "unpainted_picket_fence",
+  "base": "WOOD",
+  "types": [
+    "PANE"
+  ],
+  "textures": {
+    "normal": "unpainted_picket_fence"
+  }
+}

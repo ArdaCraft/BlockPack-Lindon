@@ -1,0 +1,11 @@
+{
+  "name": "elven_cabinet_0",
+  "base": "WOOD",
+  "types": [
+    "BLOCK",
+    "PANE"
+  ],
+  "textures": {
+    "normal": "elven_cabinet_0"
+  }
+}

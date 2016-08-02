@@ -1,0 +1,10 @@
+{
+  "name": "waiting_approval",
+  "base": "STONE",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "waiting_approval"
+  }
+}

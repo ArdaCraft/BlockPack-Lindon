@@ -1,0 +1,10 @@
+{
+  "name": "rope",
+  "base": "STONE",
+  "types": [
+    "LADDER"
+  ],
+  "textures": {
+    "normal": "rope"
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/cracked_grey_bark",
+        "top": "acblocks:blocks/cracked_grey_bark",
+        "side": "acblocks:blocks/cracked_grey_bark"
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "vicia_faba",
+  "base": "SPONGE",
+  "types": [
+    "CROPS"
+  ],
+  "textures": {
+    "normal": "vicia_faba"
+  }
+}

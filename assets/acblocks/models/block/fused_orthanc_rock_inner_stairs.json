@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "acblocks:blocks/fused_orthanc_rock",
+        "top": "acblocks:blocks/fused_orthanc_rock",
+        "side": "acblocks:blocks/fused_orthanc_rock"
+    }
+}
