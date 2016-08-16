@@ -1,5 +1,5 @@
 {
     "variants": {
-        "normal": { "model": "acblocks:astrolabe_elven_web" }
+        "normal": { "model": "acblocks:astrolabe_web" }
     }
 }
