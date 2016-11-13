@@ -1,0 +1,6 @@
+{
+    "parent": "block/wall_post",
+    "textures": {
+        "wall": "acblocks:blocks/red_grey_transition_pine_log"
+    }
+}

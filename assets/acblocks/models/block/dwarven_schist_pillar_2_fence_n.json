@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_n",
+    "textures": {
+        "texture": "acblocks:blocks/dwarven_schist_pillar_2"
+    }
+}

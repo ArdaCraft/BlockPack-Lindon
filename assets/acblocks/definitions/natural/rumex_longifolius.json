@@ -1,0 +1,12 @@
+{
+  "name": "rumex_longifolius",
+  "base": "GRASS",
+  "types": [
+    "DOUBLE_PLANT"
+  ],
+  "textures": {
+    "normal": "double_plant_rumex_longifolius_bottom",
+    "top": "double_plant_rumex_longifolius_top",
+    "bottom": "double_plant_rumex_longifolius_bottom"
+  }
+}

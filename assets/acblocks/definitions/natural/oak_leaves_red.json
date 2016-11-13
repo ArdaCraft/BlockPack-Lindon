@@ -1,0 +1,10 @@
+{
+  "name": "oak_leaves_red",
+  "base": "SPONGE",
+  "types": [
+    "LEAVES"
+  ],
+  "textures": {
+    "normal": "oak_leaves_red"
+  }
+}

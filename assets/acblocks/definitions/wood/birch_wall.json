@@ -1,0 +1,10 @@
+{
+  "name": "birch_wall",
+  "base": "WOOD",
+  "types": [
+    "WALL"
+  ],
+  "textures": {
+    "normal": "birch_wall"
+  }
+}

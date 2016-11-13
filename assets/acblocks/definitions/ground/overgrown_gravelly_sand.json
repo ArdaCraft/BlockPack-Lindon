@@ -1,0 +1,12 @@
+{
+  "name": "overgrown_gravelly_sand",
+  "base": "SAND",
+  "types": [
+    "BLOCK",
+    "SLAB",
+    "SLIM_SLAB"
+  ],
+  "textures": {
+    "normal": "overgrown_gravelly_sand"
+  }
+}

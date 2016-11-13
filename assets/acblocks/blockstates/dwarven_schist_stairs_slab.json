@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:dwarven_schist_stairs_slab_half" },
+        "half=top,variant=false": { "model": "acblocks:dwarven_schist_stairs_slab_upper" }
+    }
+}

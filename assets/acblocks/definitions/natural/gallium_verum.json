@@ -1,0 +1,10 @@
+{
+  "name": "gallium_verum",
+  "base": "SPONGE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "gallium_verum"
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "acblocks:blocks/vaccinium_vitis_idaea"
+    }
+}

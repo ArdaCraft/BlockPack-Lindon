@@ -1,0 +1,10 @@
+{
+  "name": "salix_caprea",
+  "base": "SPONGE",
+  "types": [
+    "LEAVES"
+  ],
+  "textures": {
+    "normal": "salix_caprea"
+  }
+}

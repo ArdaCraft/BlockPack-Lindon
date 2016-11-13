@@ -1,0 +1,12 @@
+{
+  "name": "dwarven_schist_stairs",
+  "base": "STONE",
+  "types": [
+    "STAIRS",
+    "TRAP_DOOR",
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "dwarven_schist_stairs"
+  }
+}

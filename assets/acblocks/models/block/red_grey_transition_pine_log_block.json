@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/red_grey_transition_pine_log",
+        "top": "acblocks:blocks/red_grey_transition_pine_log",
+        "side": "acblocks:blocks/red_grey_transition_pine_log"
+    }
+}

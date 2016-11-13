@@ -1,0 +1,12 @@
+{
+  "name": "spruce_log",
+  "base": "WOOD",
+  "types": [
+    "BLOCK",
+    "FENCE",
+    "TRUNK"
+  ],
+  "textures": {
+    "normal": "spruce_log"
+  }
+}

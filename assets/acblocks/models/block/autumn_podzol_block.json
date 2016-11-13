@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/autumn_podzol",
+        "top": "acblocks:blocks/autumn_podzol",
+        "side": "acblocks:blocks/autumn_podzol"
+    }
+}

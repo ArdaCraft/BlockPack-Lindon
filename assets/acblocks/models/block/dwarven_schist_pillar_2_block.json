@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/dwarven_schist_pillar_2",
+        "top": "acblocks:blocks/dwarven_schist_pillar_2",
+        "side": "acblocks:blocks/dwarven_schist_pillar_2"
+    }
+}

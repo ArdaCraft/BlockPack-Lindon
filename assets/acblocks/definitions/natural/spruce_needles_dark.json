@@ -1,0 +1,10 @@
+{
+  "name": "spruce_needles_dark",
+  "base": "SPONGE",
+  "types": [
+    "LEAVES"
+  ],
+  "textures": {
+    "normal": "spruce_needles_dark"
+  }
+}

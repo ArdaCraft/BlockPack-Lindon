@@ -1,0 +1,10 @@
+{
+  "name": "vaccinium_uliginosum",
+  "base": "SPONGE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "vaccinium_uliginosum"
+  }
+}

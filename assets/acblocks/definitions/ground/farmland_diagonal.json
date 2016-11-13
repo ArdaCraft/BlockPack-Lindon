@@ -1,0 +1,10 @@
+{
+  "name": "farmland_diagonal",
+  "base": "WOOD",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "farmland_diagonal"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "goat_sallow_log",
+  "base": "WOOD",
+  "types": [
+    "BLOCK",
+    "FENCE",
+    "TRUNK"
+  ],
+  "textures": {
+    "normal": "goat_sallow_log"
+  }
+}

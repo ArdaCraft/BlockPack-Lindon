@@ -1,0 +1,12 @@
+{
+  "name": "overgrown_roots",
+  "base": "DIRT",
+  "types": [
+    "BLOCK",
+    "SLAB",
+    "SLIM_SLAB"
+  ],
+  "textures": {
+    "normal": "overgrown_roots"
+  }
+}

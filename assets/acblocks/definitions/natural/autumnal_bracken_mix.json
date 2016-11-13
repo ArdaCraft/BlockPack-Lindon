@@ -1,0 +1,10 @@
+{
+  "name": "autumnal_bracken_mix",
+  "base": "SPONGE",
+  "types": [
+    "PLANT"
+  ],
+  "textures": {
+    "normal": "autumnal_bracken_mix"
+  }
+}

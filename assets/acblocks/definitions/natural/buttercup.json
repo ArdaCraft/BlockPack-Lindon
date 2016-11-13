@@ -1,0 +1,10 @@
+{
+  "name": "buttercup",
+  "base": "SPONGE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "buttercup"
+  }
+}

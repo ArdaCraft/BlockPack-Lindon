@@ -1,0 +1,10 @@
+{
+  "name": "pine_cones",
+  "base": "SPONGE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "pine_cones"
+  }
+}

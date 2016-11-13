@@ -1,0 +1,12 @@
+{
+  "name": "pine_log_red",
+  "base": "WOOD",
+  "types": [
+    "BLOCK",
+    "FENCE",
+    "TRUNK"
+  ],
+  "textures": {
+    "normal": "pine_log_red"
+  }
+}

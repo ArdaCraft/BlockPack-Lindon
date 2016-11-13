@@ -1,0 +1,10 @@
+{
+  "name": "birds_foot_trefoil",
+  "base": "SPONGE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "birds_foot_trefoil"
+  }
+}

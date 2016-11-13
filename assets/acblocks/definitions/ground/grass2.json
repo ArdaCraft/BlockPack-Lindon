@@ -1,0 +1,10 @@
+{
+  "name": "grass2",
+  "base": "DIRT",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "grass2"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "red_grey_transition_pine_log",
+  "base": "WOOD",
+  "types": [
+    "BLOCK",
+    "FENCE",
+    "TRUNK"
+  ],
+  "textures": {
+    "normal": "red_grey_transition_pine_log"
+  }
+}

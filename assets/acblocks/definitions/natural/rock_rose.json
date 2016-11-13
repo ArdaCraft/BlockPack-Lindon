@@ -1,0 +1,10 @@
+{
+  "name": "rock_rose",
+  "base": "SPONGE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "rock_rose"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "thin_leaves_autumnal",
+  "base": "SPONGE",
+  "types": [
+    "LEAVES"
+  ],
+  "textures": {
+    "normal": "thin_leaves_autumnal"
+  }
+}

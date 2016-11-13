@@ -1,0 +1,10 @@
+{
+  "name": "rumex_acetosella",
+  "base": "SPONGE",
+  "types": [
+    "PLANT"
+  ],
+  "textures": {
+    "normal": "rumex_acetosella"
+  }
+}

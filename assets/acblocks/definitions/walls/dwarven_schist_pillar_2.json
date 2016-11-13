@@ -1,0 +1,13 @@
+{
+  "name": "dwarven_schist_pillar_2",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "FENCE",
+    "TRAP_DOOR",
+    "TRUNK"
+  ],
+  "textures": {
+    "normal": "dwarven_schist_pillar_2"
+  }
+}

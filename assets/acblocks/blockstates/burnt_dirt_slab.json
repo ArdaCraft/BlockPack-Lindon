@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:burnt_dirt_slab_half" },
+        "half=top,variant=false": { "model": "acblocks:burnt_dirt_slab_upper" }
+    }
+}

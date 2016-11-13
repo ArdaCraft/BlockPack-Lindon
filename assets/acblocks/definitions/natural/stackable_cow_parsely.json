@@ -1,0 +1,10 @@
+{
+  "name": "stackable_cow_parsely",
+  "base": "SPONGE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "stackable_cow_parsely"
+  }
+}

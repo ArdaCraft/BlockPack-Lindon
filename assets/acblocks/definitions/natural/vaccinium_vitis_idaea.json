@@ -1,0 +1,10 @@
+{
+  "name": "vaccinium_vitis_idaea",
+  "base": "SPONGE",
+  "types": [
+    "PLANT"
+  ],
+  "textures": {
+    "normal": "vaccinium_vitis_idaea"
+  }
+}

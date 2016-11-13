@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "acblocks:blocks/overgrown_gravelly_sand",
+        "top": "acblocks:blocks/overgrown_gravelly_sand",
+        "side": "acblocks:blocks/overgrown_gravelly_sand"
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "dark_red_bracken",
+  "base": "SPONGE",
+  "types": [
+    "PLANT"
+  ],
+  "textures": {
+    "normal": "dark_red_bracken"
+  }
+}

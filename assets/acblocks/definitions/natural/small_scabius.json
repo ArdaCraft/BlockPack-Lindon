@@ -1,0 +1,10 @@
+{
+  "name": "small_scabius",
+  "base": "SPONGE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "small_scabius"
+  }
+}

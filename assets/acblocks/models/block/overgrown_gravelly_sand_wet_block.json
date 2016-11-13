@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/overgrown_gravelly_sand_wet",
+        "top": "acblocks:blocks/overgrown_gravelly_sand_wet",
+        "side": "acblocks:blocks/overgrown_gravelly_sand_wet"
+    }
+}

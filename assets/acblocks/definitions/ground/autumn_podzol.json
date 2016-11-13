@@ -1,0 +1,12 @@
+{
+  "name": "autumn_podzol",
+  "base": "DIRT",
+  "types": [
+    "BLOCK",
+    "SLAB",
+    "SLIM_SLAB"
+  ],
+  "textures": {
+    "normal": "autumn_podzol"
+  }
+}

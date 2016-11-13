@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_nsew",
+    "textures": {
+        "texture": "acblocks:blocks/red_grey_transition_pine_log"
+    }
+}

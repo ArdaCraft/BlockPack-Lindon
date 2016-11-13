@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/salix_caprea",
+        "top": "acblocks:blocks/salix_caprea",
+        "side": "acblocks:blocks/salix_caprea"
+    }
+}

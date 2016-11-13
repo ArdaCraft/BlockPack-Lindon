@@ -1,0 +1,12 @@
+{
+  "name": "lichen_dirt",
+  "base": "DIRT",
+  "types": [
+    "BLOCK",
+    "SLAB",
+    "SLIM_SLAB"
+  ],
+  "textures": {
+    "normal": "lichen_dirt"
+  }
+}

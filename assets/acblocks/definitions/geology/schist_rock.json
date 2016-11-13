@@ -1,0 +1,10 @@
+{
+  "name": "schist_rock",
+  "base": "STONE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "schist_rock"
+  }
+}

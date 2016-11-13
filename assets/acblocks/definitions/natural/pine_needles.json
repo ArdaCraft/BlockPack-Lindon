@@ -1,0 +1,10 @@
+{
+  "name": "pine_needles",
+  "base": "SPONGE",
+  "types": [
+    "LEAVES"
+  ],
+  "textures": {
+    "normal": "pine_needles"
+  }
+}

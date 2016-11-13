@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:overgrown_gravelly_sand_wet_slab_half" },
+        "half=top,variant=false": { "model": "acblocks:overgrown_gravelly_sand_wet_slab_upper" }
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "phleum_pratense",
+  "base": "SPONGE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "phleum_pratense"
+  }
+}

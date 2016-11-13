@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/goat_sallow_log",
+        "top": "acblocks:blocks/goat_sallow_log",
+        "side": "acblocks:blocks/goat_sallow_log"
+    }
+}

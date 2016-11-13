@@ -1,0 +1,10 @@
+{
+  "name": "festuca_pratensis",
+  "base": "SPONGE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "festuca_pratensis"
+  }
+}

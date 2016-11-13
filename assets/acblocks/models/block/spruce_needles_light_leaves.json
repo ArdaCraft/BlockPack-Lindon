@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/spruce_needles_light",
+        "top": "acblocks:blocks/spruce_needles_light",
+        "side": "acblocks:blocks/spruce_needles_light"
+    }
+}

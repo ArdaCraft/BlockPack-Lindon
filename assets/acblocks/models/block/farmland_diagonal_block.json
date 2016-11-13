@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/farmland_diagonal",
+        "top": "acblocks:blocks/farmland_diagonal",
+        "side": "acblocks:blocks/farmland_diagonal"
+    }
+}

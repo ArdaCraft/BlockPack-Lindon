@@ -1,0 +1,11 @@
+{
+  "name": "dwarven_schist_pattern",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "TRAP_DOOR"
+  ],
+  "textures": {
+    "normal": "dwarven_schist_pattern"
+  }
+}

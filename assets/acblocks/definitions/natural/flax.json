@@ -1,0 +1,12 @@
+{
+  "name": "flax",
+  "base": "GRASS",
+  "types": [
+    "DOUBLE_PLANT"
+  ],
+  "textures": {
+    "normal": "double_plant_flax_bottom",
+    "top": "double_plant_flax_top",
+    "bottom": "double_plant_flax_bottom"
+  }
+}

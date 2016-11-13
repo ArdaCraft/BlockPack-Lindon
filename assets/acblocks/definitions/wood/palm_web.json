@@ -1,0 +1,10 @@
+{
+  "name": "palm_web",
+  "base": "WOOD",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "palm_web"
+  }
+}

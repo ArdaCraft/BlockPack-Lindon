@@ -1,0 +1,10 @@
+{
+  "name": "cypress",
+  "base": "SPONGE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "cypress"
+  }
+}
