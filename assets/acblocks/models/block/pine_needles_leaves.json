@@ -1,8 +1,6 @@
 {
-    "parent": "block/cube_bottom_top",
+    "parent": "block/leaves",
     "textures": {
-        "bottom": "acblocks:blocks/pine_needles",
-        "top": "acblocks:blocks/pine_needles",
-        "side": "acblocks:blocks/pine_needles"
+        "all": "acblocks:blocks/pine_needles"
     }
 }
