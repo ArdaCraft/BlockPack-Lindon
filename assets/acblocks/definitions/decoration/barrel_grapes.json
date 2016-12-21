@@ -1,0 +1,10 @@
+{
+  "name": "barrel_grapes",
+  "base": "WOOD",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "barrel_grapes"
+  }
+}

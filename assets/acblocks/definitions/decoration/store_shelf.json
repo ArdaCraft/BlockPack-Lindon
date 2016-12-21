@@ -1,0 +1,11 @@
+{
+  "name": "store_shelf",
+  "base": "WOOD",
+  "types": [
+    "LOG",
+    "FURNACE"
+  ],
+  "textures": {
+    "normal": "store_shelf"
+  }
+}

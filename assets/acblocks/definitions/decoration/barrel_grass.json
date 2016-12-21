@@ -1,0 +1,10 @@
+{
+  "name": "barrel_grass",
+  "base": "WOOD",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "barrel_grass"
+  }
+}

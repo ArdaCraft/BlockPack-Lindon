@@ -1,0 +1,11 @@
+{
+  "name": "empty_elven_bookshelf",
+  "base": "WOOD",
+  "types": [
+    "LOG",
+    "FURNACE"
+  ],
+  "textures": {
+    "normal": "empty_elven_bookshelf"
+  }
+}

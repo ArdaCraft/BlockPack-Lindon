@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "acblocks:blocks/bookshelves_side",
+        "front": "acblocks:blocks/bookshelves_top",
+        "side": "acblocks:blocks/bookshelves_side"
+    }
+}

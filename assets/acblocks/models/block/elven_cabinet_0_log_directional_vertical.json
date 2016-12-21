@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "acblocks:blocks/elven_cabinet_0_top",
+        "side": "acblocks:blocks/elven_cabinet_0_side"
+    }
+}

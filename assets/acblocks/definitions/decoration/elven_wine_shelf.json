@@ -1,0 +1,11 @@
+{
+  "name": "elven_wine_shelf",
+  "base": "WOOD",
+  "types": [
+    "LOG",
+    "FURNACE"
+  ],
+  "textures": {
+    "normal": "elven_wine_shelf"
+  }
+}

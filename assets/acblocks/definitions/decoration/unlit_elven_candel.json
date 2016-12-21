@@ -1,0 +1,10 @@
+{
+  "name": "unlit_elven_candel",
+  "base": "WOOD",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "unlit_elven_candel"
+  }
+}

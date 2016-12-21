@@ -1,0 +1,7 @@
+{
+    "parent": "block/column_side",
+    "textures": {
+        "end": "acblocks:blocks/store_shelf_top",
+        "side": "acblocks:blocks/store_shelf_side"
+    }
+}

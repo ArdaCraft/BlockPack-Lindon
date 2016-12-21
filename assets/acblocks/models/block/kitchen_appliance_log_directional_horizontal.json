@@ -1,0 +1,7 @@
+{
+    "parent": "block/column_side",
+    "textures": {
+        "end": "acblocks:blocks/kitchen_appliance_top",
+        "side": "acblocks:blocks/kitchen_appliance_side"
+    }
+}

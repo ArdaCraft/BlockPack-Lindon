@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "acblocks:harlond_drawers_1_furnace" },
+        "facing=south": { "model": "acblocks:harlond_drawers_1_furnace", "y": 180 },
+        "facing=west":  { "model": "acblocks:harlond_drawers_1_furnace", "y": 270 },
+        "facing=east":  { "model": "acblocks:harlond_drawers_1_furnace", "y": 90 }
+    }
+}

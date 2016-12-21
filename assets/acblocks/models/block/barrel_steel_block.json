@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/barrel_bottom",
+        "top": "acblocks:blocks/barrel_steel",
+        "side": "acblocks:blocks/barrel_steel_side"
+    }
+}

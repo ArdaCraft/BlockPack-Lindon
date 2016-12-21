@@ -1,0 +1,10 @@
+{
+  "name": "amphora",
+  "base": "WOOD",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "amphora"
+  }
+}

@@ -1,8 +1,0 @@
-{
-    "parent": "block/cube_bottom_top",
-    "textures": {
-        "bottom": "acblocks:blocks/elven_bookshelf_pillar",
-        "top": "acblocks:blocks/elven_bookshelf_pillar",
-        "side": "acblocks:blocks/elven_bookshelf_pillar"
-    }
-}

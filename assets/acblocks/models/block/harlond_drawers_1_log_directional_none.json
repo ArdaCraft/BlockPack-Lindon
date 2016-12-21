@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "acblocks:blocks/harlond_drawers_1_side"
+    }
+}

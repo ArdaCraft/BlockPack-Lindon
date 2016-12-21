@@ -1,7 +1,0 @@
-{
-    "parent": "block/pane_nsw",
-    "textures": {
-        "edge": "acblocks:blocks/elven_cabinet_1",
-        "pane": "acblocks:blocks/elven_cabinet_1"
-    }
-}

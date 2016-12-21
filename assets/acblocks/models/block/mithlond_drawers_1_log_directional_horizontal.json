@@ -1,0 +1,7 @@
+{
+    "parent": "block/column_side",
+    "textures": {
+        "end": "acblocks:blocks/mithlond_drawers_1_top",
+        "side": "acblocks:blocks/mithlond_drawers_1_side"
+    }
+}

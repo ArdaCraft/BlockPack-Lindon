@@ -2,9 +2,10 @@
   "name": "kitchen_appliance",
   "base": "WOOD",
   "types": [
-    "BLOCK"
+    "LOG",
+    "FURNACE"
   ],
   "textures": {
-    "normal": "kitchen_appliance_block_side"
+    "normal": "kitchen_appliance"
   }
 }

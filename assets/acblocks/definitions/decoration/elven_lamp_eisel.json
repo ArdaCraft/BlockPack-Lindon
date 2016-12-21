@@ -1,0 +1,10 @@
+{
+  "name": "elven_lamp_eisel",
+  "base": "WOOD",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "elven_lamp_eisel"
+  }
+}

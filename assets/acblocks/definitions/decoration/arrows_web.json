@@ -1,0 +1,10 @@
+{
+  "name": "arrows_web",
+  "base": "WOOD",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "arrows_web"
+  }
+}

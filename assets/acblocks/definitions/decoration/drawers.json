@@ -1,0 +1,11 @@
+{
+  "name": "drawers",
+  "base": "WOOD",
+  "types": [
+    "LOG",
+    "FURNACE"
+  ],
+  "textures": {
+    "normal": "drawers"
+  }
+}

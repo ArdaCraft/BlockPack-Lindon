@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "acblocks:blocks/unlit_elven_candel"
+    }
+}

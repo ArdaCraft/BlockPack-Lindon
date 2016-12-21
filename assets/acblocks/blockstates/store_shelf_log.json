@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "axis=y":  { "model": "acblocks:store_shelf_log_directional_vertical" },
+        "axis=z":   { "model": "acblocks:store_shelf_log_directional_horizontal" },
+        "axis=x":   { "model": "acblocks:store_shelf_log_directional_horizontal", "y": 90 },
+        "axis=none": { "model": "acblocks:store_shelf_log_directional_none" }
+    }
+}

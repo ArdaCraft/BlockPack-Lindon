@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "acblocks:blocks/elven_wine_shelf_top",
+        "side": "acblocks:blocks/elven_wine_shelf_side"
+    }
+}

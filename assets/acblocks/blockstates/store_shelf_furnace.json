@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "acblocks:store_shelf_furnace" },
+        "facing=south": { "model": "acblocks:store_shelf_furnace", "y": 180 },
+        "facing=west":  { "model": "acblocks:store_shelf_furnace", "y": 270 },
+        "facing=east":  { "model": "acblocks:store_shelf_furnace", "y": 90 }
+    }
+}

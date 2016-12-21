@@ -1,0 +1,10 @@
+{
+  "name": "dead_animal",
+  "base": "SPONGE",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "dead_animal"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mithlond_drawers_1",
+  "base": "WOOD",
+  "types": [
+    "LOG",
+    "FURNACE"
+  ],
+  "textures": {
+    "normal": "mithlond_drawers_1"
+  }
+}

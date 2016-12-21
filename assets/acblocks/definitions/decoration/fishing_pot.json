@@ -1,0 +1,10 @@
+{
+  "name": "fishing_pot",
+  "base": "WOOD",
+  "types": [
+    "GLASS_STAINED"
+  ],
+  "textures": {
+    "normal": "fishing_pot"
+  }
+}

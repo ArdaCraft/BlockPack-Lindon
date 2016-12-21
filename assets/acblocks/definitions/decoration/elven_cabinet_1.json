@@ -2,8 +2,8 @@
   "name": "elven_cabinet_1",
   "base": "WOOD",
   "types": [
-    "BLOCK",
-    "PANE"
+    "LOG",
+    "FURNACE"
   ],
   "textures": {
     "normal": "elven_cabinet_1"

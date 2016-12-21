@@ -1,0 +1,10 @@
+{
+  "name": "unlit_chandelier",
+  "base": "WOOD",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "unlit_chandelier"
+  }
+}

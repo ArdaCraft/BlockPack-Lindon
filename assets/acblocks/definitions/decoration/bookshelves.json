@@ -1,0 +1,11 @@
+{
+  "name": "bookshelves",
+  "base": "WOOD",
+  "types": [
+    "LOG",
+    "FURNACE"
+  ],
+  "textures": {
+    "normal": "bookshelves"
+  }
+}

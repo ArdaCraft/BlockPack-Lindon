@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "acblocks:blocks/scroll_shelf_side"
+    }
+}

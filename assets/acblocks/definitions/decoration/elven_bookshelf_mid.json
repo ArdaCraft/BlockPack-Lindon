@@ -2,7 +2,6 @@
   "name": "elven_bookshelf_mid",
   "base": "WOOD",
   "types": [
-    "BLOCK",
     "PANE"
   ],
   "textures": {

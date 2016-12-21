@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "acblocks:blocks/harlond_drawers_1_side",
+        "front": "acblocks:blocks/harlond_drawers_1_top",
+        "side": "acblocks:blocks/harlond_drawers_1_side"
+    }
+}

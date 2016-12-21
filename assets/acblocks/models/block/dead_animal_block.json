@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/dead_animal",
+        "top": "acblocks:blocks/dead_animal",
+        "side": "acblocks:blocks/dead_animal"
+    }
+}

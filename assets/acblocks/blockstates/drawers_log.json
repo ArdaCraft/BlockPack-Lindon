@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "axis=y":  { "model": "acblocks:drawers_log_directional_vertical" },
+        "axis=z":   { "model": "acblocks:drawers_log_directional_horizontal" },
+        "axis=x":   { "model": "acblocks:drawers_log_directional_horizontal", "y": 90 },
+        "axis=none": { "model": "acblocks:drawers_log_directional_none" }
+    }
+}

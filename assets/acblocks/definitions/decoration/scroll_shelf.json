@@ -1,0 +1,11 @@
+{
+  "name": "scroll_shelf",
+  "base": "WOOD",
+  "types": [
+    "LOG",
+    "FURNACE"
+  ],
+  "textures": {
+    "normal": "scroll_shelf"
+  }
+}
