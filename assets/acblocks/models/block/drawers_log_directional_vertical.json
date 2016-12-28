@@ -1,7 +1,7 @@
 {
     "parent": "block/cube_column",
     "textures": {
-        "end": "acblocks:blocks/drawers_top",
-        "side": "acblocks:blocks/drawers_side"
+        "end": "acblocks:blocks/drawers_side",
+        "side": "acblocks:blocks/drawers_top"
     }
 }
