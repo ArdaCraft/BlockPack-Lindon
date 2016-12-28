@@ -1,8 +1,8 @@
 {
     "parent": "block/orientable",
     "textures": {
-        "top": "acblocks:blocks/drawers_side",
-        "front": "acblocks:blocks/drawers_top",
-        "side": "acblocks:blocks/drawers_side"
+        "top": "acblocks:blocks/drawers_top",
+        "front": "acblocks:blocks/drawers_side",
+        "side": "acblocks:blocks/drawers_top"
     }
 }
