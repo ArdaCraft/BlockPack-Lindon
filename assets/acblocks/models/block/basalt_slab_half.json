@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "acblocks:blocks/basalt",
+        "top": "acblocks:blocks/basalt",
+        "side": "acblocks:blocks/basalt"
+    }
+}

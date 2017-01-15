@@ -1,0 +1,10 @@
+{
+  "name": "greywacke",
+  "base": "STONE",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "greywacke"
+  }
+}

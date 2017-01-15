@@ -1,0 +1,10 @@
+{
+  "name": "snowy_granite",
+  "base": "STONE",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "snowy_granite"
+  }
+}

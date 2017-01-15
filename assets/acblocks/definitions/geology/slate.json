@@ -1,0 +1,10 @@
+{
+  "name": "slate",
+  "base": "STONE",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "slate"
+  }
+}

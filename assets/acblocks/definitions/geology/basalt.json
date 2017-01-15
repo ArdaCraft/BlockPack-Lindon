@@ -1,0 +1,12 @@
+{
+  "name": "basalt",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLAB",
+    "STAIRS"
+  ],
+  "textures": {
+    "normal": "basalt"
+  }
+}

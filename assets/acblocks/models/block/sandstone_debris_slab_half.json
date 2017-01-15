@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "acblocks:blocks/sandstone_debris",
+        "top": "acblocks:blocks/sandstone_debris",
+        "side": "acblocks:blocks/sandstone_debris"
+    }
+}

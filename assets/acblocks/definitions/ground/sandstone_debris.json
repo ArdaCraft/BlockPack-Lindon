@@ -1,0 +1,12 @@
+{
+  "name": "sandstone_debris",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLAB",
+    "SLIM_SLAB"
+  ],
+  "textures": {
+    "normal": "sandstone_debris"
+  }
+}

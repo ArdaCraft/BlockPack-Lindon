@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/snowy_granite",
+        "top": "acblocks:blocks/snowy_granite",
+        "side": "acblocks:blocks/snowy_granite"
+    }
+}

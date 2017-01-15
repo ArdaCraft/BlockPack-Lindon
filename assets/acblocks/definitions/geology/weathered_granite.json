@@ -1,0 +1,10 @@
+{
+  "name": "weathered_granite",
+  "base": "STONE",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "weathered_granite"
+  }
+}

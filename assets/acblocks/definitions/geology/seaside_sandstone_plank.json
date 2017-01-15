@@ -1,0 +1,10 @@
+{
+  "name": "seaside_sandstone",
+  "base": "STONE",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "seaside_sandstone"
+  }
+}

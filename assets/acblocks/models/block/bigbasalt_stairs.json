@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "acblocks:blocks/bigbasalt",
+        "top": "acblocks:blocks/bigbasalt",
+        "side": "acblocks:blocks/bigbasalt"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/seaside_sandstone",
+        "top": "acblocks:blocks/seaside_sandstone",
+        "side": "acblocks:blocks/seaside_sandstone"
+    }
+}

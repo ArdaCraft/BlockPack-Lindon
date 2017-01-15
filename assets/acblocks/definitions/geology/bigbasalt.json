@@ -1,0 +1,12 @@
+{
+  "name": "bigbasalt",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLAB",
+    "STAIRS"
+  ],
+  "textures": {
+    "normal": "bigbasalt"
+  }
+}
